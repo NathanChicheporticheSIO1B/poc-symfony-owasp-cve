@@ -1,0 +1,11 @@
+hello I'm Scratch from The Amazing Digital Circus and I have something to tell you :
+
+Pour se connecter à Adminer :
+système : MySQL
+serveur : db
+utilisateur : app
+mot de passes : app_password_123
+base : app.
+
+Application Symfony	: http://localhost:8080
+Adminer (client SQL web) : http://localhost:8081
